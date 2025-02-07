@@ -1,1 +1,1 @@
-# mnist-nn
+# MNIST Neural Network Implementation
